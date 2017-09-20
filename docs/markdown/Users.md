@@ -36,6 +36,7 @@ If you have a project that uses Meson that you want to add to this list, let us 
  - [Parzip](https://github.com/jpakkane/parzip), a multithreaded reimplementation of Zip
  - [Pitivi](http://pitivi.org/), a nonlinear video editor
  - [Polari](https://git.gnome.org/browse/polari), an IRC client
+ - [Radare2](http://rada.re), a Reverse Engineering toolkit and framework (not the default yet)
  - [Sysprof](https://wiki.gnome.org/Apps/Sysprof), a profiling tool
  - [systemd](https://github.com/systemd/systemd/pull/5704), the init system (not the default yet)
  - [Xorg](https://cgit.freedesktop.org/xorg/xserver/) the X.org display server (not the default yet)
